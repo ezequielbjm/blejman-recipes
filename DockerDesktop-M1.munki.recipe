@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Docker and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.munki.Docker</string>
+	<string>4sidedcom.munki.DockerDesktop-M1r</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>4sidedcom.download.Docker</string>
+	<string>4sidedcom.download.DockerDesktop-M1</string>
 	<key>Process</key>
 	<array>
 		<dict>
