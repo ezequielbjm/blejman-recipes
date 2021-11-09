@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Docker.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.download.Docker</string>
+	<string>4sidedcom.download.DockerDesktop-M1</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
