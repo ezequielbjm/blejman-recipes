@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Rectangle and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.munki.Rectangle</string>
+	<string>4sidedcom.munki.RectangleApp</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
