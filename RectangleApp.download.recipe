@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Rectangle.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.download.Rectangle</string>
+	<string>4sidedcom.download.RectangleApp</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
