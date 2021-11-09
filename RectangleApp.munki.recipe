@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>4sidedcom.download.Rectangle</string>
+	<string>4sidedcom.download.RectangleApp</string>
 	<key>Process</key>
 	<array>
 		<dict>
