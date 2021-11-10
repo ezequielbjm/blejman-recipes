@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Atom and imports it into Munki.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.munki.Atom</string>
+	<string>4sidedcom.munki.AtomEditor</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -35,7 +35,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>4sidedcom.download.Atom</string>
+	<string>4sidedcom.download.AtomEditor</string>
 	<key>Process</key>
 	<array>
 		<dict>
