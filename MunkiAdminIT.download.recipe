@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of MunkiAdmin.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.download.MunkiAdmin</string>
+	<string>4sidedcom.download.MunkiAdminIT</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
