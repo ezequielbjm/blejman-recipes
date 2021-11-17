@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Postman.</string>
 	<key>Identifier</key>
-	<string>4sidedcom.download.Postman</string>
+	<string>4sidedcom.download.PostmanDesktop</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
